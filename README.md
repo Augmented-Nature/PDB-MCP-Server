@@ -145,3 +145,13 @@ npm run dev
 
 This project is developed by **Augmented Nature**
 🌐 Website: [augmentednature.ai](https://augmentednature.ai)
+
+## Citation
+If you use this project in your research or publications, please cite it as follows:
+
+```bibtex @misc{pdbmcp2025, 
+author = {Moudather Chelbi},
+title = {Protein Data Bank (PDB) MCP Server},
+year = {2025},
+howpublished = {https://github.com/Augmented-Nature/PDB-MCP-Server},
+note = {Accessed: 2025-06-29}
