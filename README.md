@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/augmented-nature-pdb-mcp-server-badge.png)](https://mseep.ai/app/augmented-nature-pdb-mcp-server)
+
 ![PDB MCP Server Logo](pdb-mcp-server-logo.png)
 # PDB MCP Server
 
