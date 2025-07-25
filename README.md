@@ -1,7 +1,12 @@
 ![PDB MCP Server Logo](pdb-mcp-server-logo.png)
+
 # PDB MCP Server
 
 A Model Context Protocol (MCP) server that provides access to the Protein Data Bank (PDB) - the worldwide repository of information about the 3D structures of proteins, nucleic acids, and complex assemblies.
+
+<a href="https://glama.ai/mcp/servers/@Augmented-Nature/PDB-MCP-Server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Augmented-Nature/PDB-MCP-Server/badge" alt="PDB Server MCP server" />
+</a>
 
 ## Features
 
@@ -149,9 +154,11 @@ This project is developed by **Augmented Nature**
 ## Citation
 If you use this project in your research or publications, please cite it as follows:
 
-```bibtex @misc{pdbmcp2025, 
+```bibtex
+@misc{pdbmcp2025, 
 author = {Moudather Chelbi},
 title = {Protein Data Bank (PDB) MCP Server},
 year = {2025},
 howpublished = {https://github.com/Augmented-Nature/PDB-MCP-Server},
 note = {Accessed: 2025-06-29}
+```
